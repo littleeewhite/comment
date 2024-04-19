@@ -1,0 +1,6 @@
+{
+	"enablePullDownRefresh":true,
+	"backgroundColor":"#F0F8FF",
+	"backgroundTextStyle": "dark",
+	"navigationBarTitleText":"发现"
+}

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/find/main",
+    "pages/me/main",
+     "pages/index/main",
+     "pages/detail/main",
+     "pages/search/main"
+    
+    
+     
+  ],
+  "tabBar": {
+    "selectedColor": "#3FA6AE",
+    "list": [
+      {
+        "pagePath": "pages/find/main",
+        "text": "发现",
+        "iconPath": "static/images/tabbar/un_find.png",
+        "selectedIconPath": "static/images/tabbar/find.png"
+      },
+      {
+        "pagePath": "pages/index/main",
+        "text": "新建",
+        "iconPath": "static/images/tabbar/un_new.png",
+        "selectedIconPath": "static/images/tabbar/new.png"
+      },
+      {
+        "pagePath": "pages/me/main",
+        "text": "我",
+        "iconPath": "static/images/tabbar/un_myself.png",
+        "selectedIconPath": "static/images/tabbar/myself.png"
+      }
+    ]
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#3EA6AC",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "留言板",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+ 
+}

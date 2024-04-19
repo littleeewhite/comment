@@ -1,0 +1,10 @@
+{
+	"enablePullDownRefresh":true,
+	"backgroundColor":"#F0F8FF",
+	"backgroundTextStyle": "dark",
+	"navigationBarTitleText":"个人中心",
+	"onReachBottomDistance":100
+
+
+
+}
