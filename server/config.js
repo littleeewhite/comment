@@ -2,11 +2,11 @@ const CONF = {
     serverHost: 'http://localhost:5757',
     tunnelServerUrl: 'http://tunnel.ws.qcloud.la',
 
-    tunnelSignatureKey: '27fb7d1c161b7ca52d73cce0f1d833f9f5b5ec89',
+    tunnelSignatureKey: '',
 
-    qcloudAppId: '1301326243',
-    qcloudSecretId: 'AKID5xfAQpVDA5h82BpwTyKWSCQUMyLU8Xll',
-    qcloudSecretKey: 'uazA8rQkSzKPFrDKB4g6GD0XnoumOksm',
+    qcloudAppId: '',
+    qcloudSecretId: '',
+    qcloudSecretKey: '',
     
     wxMessageToken: 'weixinmsgtoken',
 
@@ -16,10 +16,10 @@ const CONF = {
     rootPathname: '/mnt/comment/server/',
 
     // 微信小程序 App ID
-    appId: 'wxc73427d66cdb4c4e',
+    appId: '',
 
     // 微信小程序 App Secret
-    appSecret: 'be7f57884fbb6ca5e8c38900fb40b060',
+    appSecret: '',
 
     // 是否使用腾讯云代理登录小程序
     useQcloudLogin: false,
@@ -34,7 +34,7 @@ const CONF = {
         port: 3306,
         user: 'root',
         db: 'cAuth',
-        pass: '094098wkj',
+        pass: '',
         char: 'utf8mb4'
     },
 
